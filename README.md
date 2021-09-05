@@ -1,0 +1,1 @@
+This is Rejo's first git project!
